@@ -10,7 +10,7 @@ screen=pygame.display.set_mode((800,600))
 background=pygame.image.load('background-img.jpg')
 
 #Adding title
-pygame.display.set_caption('Ball Bounce Simulation')
+pygame.display.set_caption('Ball Jump Simulation')
 
 class ball:
     ball_image=pygame.image.load('ball.png')
